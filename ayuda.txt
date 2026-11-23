@@ -1,2 +1,3 @@
 Cómo usar la agenda
 1. Abre la agenda.
+2. Consulta tus tareas.
