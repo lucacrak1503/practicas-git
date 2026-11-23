@@ -1,3 +1,4 @@
 Proyecto: agenda de clase
 Responsable: trabajador A
 Estado: borrador
+Revisión: trabajador B
